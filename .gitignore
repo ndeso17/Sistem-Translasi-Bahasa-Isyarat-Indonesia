@@ -19,6 +19,10 @@ ENV/
 
 # ===== Dataset / Large Files =====
 dataset/
+Citra BISINDO/
+Data
+.augmentation_progress.txt
+augmentation_samples.png 
 
 # ===== Jupyter Notebook checkpoints =====
 .ipynb_checkpoints/
